@@ -224,9 +224,6 @@
             <mxPoint x="1779" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-62" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="1050" y="600" as="geometry" />
-        </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-63" value="自查整改结束日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="550" width="90" height="60" as="geometry" />
         </mxCell>
