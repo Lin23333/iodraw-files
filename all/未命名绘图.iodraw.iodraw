@@ -372,37 +372,37 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-129" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;化妆品自查许可证固化信息&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1720" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-130" value="计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="250" width="90" height="60" as="geometry" />
+          <mxGeometry x="1570" y="240" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-131" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-129" target="yeugxd-kxGaIebQA7rHo-130">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1465" y="290" as="sourcePoint" />
-            <mxPoint x="1515" y="240" as="targetPoint" />
+            <mxPoint x="1835" y="280" as="sourcePoint" />
+            <mxPoint x="1885" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-132" value="自查企业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="160" width="90" height="60" as="geometry" />
+          <mxGeometry x="1790" y="80" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-133" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-129" target="yeugxd-kxGaIebQA7rHo-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1466" y="230" as="sourcePoint" />
-            <mxPoint x="1645" y="180" as="targetPoint" />
+            <mxPoint x="1836" y="220" as="sourcePoint" />
+            <mxPoint x="2015" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-134" value="企业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="70" width="90" height="60" as="geometry" />
+          <mxGeometry x="1970" y="70" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-135" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-129" target="yeugxd-kxGaIebQA7rHo-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1492" y="280" as="sourcePoint" />
-            <mxPoint x="1775" y="170" as="targetPoint" />
+            <mxPoint x="1862" y="270" as="sourcePoint" />
+            <mxPoint x="2145" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-136" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="1409.6614420752612" y="200.88401847245768" as="geometry" />
+          <mxGeometry x="1779.6614420752612" y="190.88401847245768" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
