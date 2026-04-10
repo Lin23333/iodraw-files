@@ -329,25 +329,7 @@
         <mxCell id="yeugxd-kxGaIebQA7rHo-111" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;药械化企业自查表审核记录表&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-112" value="自查整改开始日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="870" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-112">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1270" y="1020" as="sourcePoint" />
-            <mxPoint x="1320" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-114" value="自查不符合要求的项目整改情况" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="810" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-115" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-114">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1271" y="960" as="sourcePoint" />
-            <mxPoint x="1450" y="910" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-116" value="自查不符合要求的项目条款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yeugxd-kxGaIebQA7rHo-116" value="审核后状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="740" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-117" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-116">
@@ -356,7 +338,7 @@
             <mxPoint x="1580" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-118" value="&lt;font face=&quot;Arial&quot;&gt;自查不符合要求的项目条款编码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yeugxd-kxGaIebQA7rHo-118" value="&lt;font face=&quot;Arial&quot;&gt;审核前状态&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1185" y="710" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-119" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-118">
@@ -376,15 +358,6 @@
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-122" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1080" y="970" as="geometry" />
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-123" value="自查整改结束日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="920" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-123">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1006.5" y="900" as="sourcePoint" />
-            <mxPoint x="1273.5" y="1018" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-125" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="990" y="850" as="geometry" />
