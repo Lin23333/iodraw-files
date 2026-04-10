@@ -287,7 +287,7 @@
         <mxCell id="yeugxd-kxGaIebQA7rHo-94" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="yeugxd-kxGaIebQA7rHo-93">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-96" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;年度自查省局上报企业&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yeugxd-kxGaIebQA7rHo-96" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;化妆品自查许可证固化信息&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-97" value="计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -335,7 +335,7 @@
             <mxPoint x="1014" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18">
+        <mxCell id="yeugxd-kxGaIebQA7rHo-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-96">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="700" as="sourcePoint" />
             <mxPoint x="530" y="700" as="targetPoint" />
