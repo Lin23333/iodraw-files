@@ -7,6 +7,9 @@
         <mxCell id="yeugxd-kxGaIebQA7rHo-2" value="&lt;b&gt;&lt;span style=&quot;font-family: Arial; font-size: 14pt;&quot;&gt;年度自查省局上报&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
