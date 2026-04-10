@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-16" value="委托生产自查模板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="90" height="60" as="geometry" />
+          <mxGeometry x="480" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yeugxd-kxGaIebQA7rHo-16" source="yeugxd-kxGaIebQA7rHo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
