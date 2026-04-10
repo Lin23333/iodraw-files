@@ -327,67 +327,76 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-111" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;化妆品年度自查整改情况&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-112" value="自查整改开始日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="510" width="90" height="60" as="geometry" />
+          <mxGeometry x="1250" y="870" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="660" as="sourcePoint" />
-            <mxPoint x="1300" y="610" as="targetPoint" />
+            <mxPoint x="1270" y="1020" as="sourcePoint" />
+            <mxPoint x="1320" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-114" value="自查不符合要求的项目整改情况" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="450" width="90" height="60" as="geometry" />
+          <mxGeometry x="1290" y="810" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-115" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1251" y="600" as="sourcePoint" />
-            <mxPoint x="1430" y="550" as="targetPoint" />
+            <mxPoint x="1271" y="960" as="sourcePoint" />
+            <mxPoint x="1450" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-116" value="自查不符合要求的项目条款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="380" width="90" height="60" as="geometry" />
+          <mxGeometry x="1270" y="740" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-117" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-116">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1277" y="650" as="sourcePoint" />
-            <mxPoint x="1560" y="540" as="targetPoint" />
+            <mxPoint x="1297" y="1010" as="sourcePoint" />
+            <mxPoint x="1580" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-118" value="&lt;font face=&quot;Arial&quot;&gt;自查不符合要求的项目条款编码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="350" width="90" height="60" as="geometry" />
+          <mxGeometry x="1185" y="710" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-119" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1397" y="660" as="sourcePoint" />
-            <mxPoint x="1680" y="550" as="targetPoint" />
+            <mxPoint x="1417" y="1020" as="sourcePoint" />
+            <mxPoint x="1700" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-120" value="自查ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="320" width="90" height="60" as="geometry" />
+          <mxGeometry x="1095" y="680" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-120">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="700" as="sourcePoint" />
-            <mxPoint x="1789" y="590" as="targetPoint" />
+            <mxPoint x="1310" y="1060" as="sourcePoint" />
+            <mxPoint x="1809" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-122" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="1060" y="610" as="geometry" />
+          <mxGeometry x="1080" y="970" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-123" value="自查整改结束日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="560" width="90" height="60" as="geometry" />
+          <mxGeometry x="1160" y="920" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-123">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="986.5" y="540" as="sourcePoint" />
-            <mxPoint x="1253.5" y="658" as="targetPoint" />
+            <mxPoint x="1006.5" y="900" as="sourcePoint" />
+            <mxPoint x="1273.5" y="1018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-125" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="970" y="490" as="geometry" />
+          <mxGeometry x="990" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-126" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-34" target="yeugxd-kxGaIebQA7rHo-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="580" as="sourcePoint" />
+            <mxPoint x="840" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-127" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="yeugxd-kxGaIebQA7rHo-126">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
