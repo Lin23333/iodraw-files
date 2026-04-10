@@ -61,6 +61,63 @@
             <mxPoint x="1289" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-18" value="&lt;b&gt;&lt;span style=&quot;font-family: Arial; font-size: 14pt;&quot;&gt;年度自查省局上报&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-19" value="任务名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="310" as="sourcePoint" />
+            <mxPoint x="760" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-21" value="自查年度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711" y="250" as="sourcePoint" />
+            <mxPoint x="890" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-23" value="任务开展时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737" y="300" as="sourcePoint" />
+            <mxPoint x="1020" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-25" value="任务完成期限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="857" y="310" as="sourcePoint" />
+            <mxPoint x="1140" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-27" value="生产自查模板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="350" as="sourcePoint" />
+            <mxPoint x="1249" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-29" value="委托生产自查模板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="410" as="sourcePoint" />
+            <mxPoint x="1299" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
