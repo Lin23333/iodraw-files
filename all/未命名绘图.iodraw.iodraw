@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-27" value="省局填报状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="90" height="60" as="geometry" />
+          <mxGeometry x="165" y="300" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-18" target="yeugxd-kxGaIebQA7rHo-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -330,7 +330,7 @@
           <mxGeometry x="850" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-116" value="审核后状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="740" width="90" height="60" as="geometry" />
+          <mxGeometry x="1130" y="860" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-117" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-116">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -339,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-118" value="&lt;font face=&quot;Arial&quot;&gt;审核前状态&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="710" width="90" height="60" as="geometry" />
+          <mxGeometry x="1140" y="760" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-119" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-111" target="yeugxd-kxGaIebQA7rHo-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
