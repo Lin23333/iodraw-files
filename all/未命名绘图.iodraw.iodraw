@@ -148,7 +148,7 @@
             <mxPoint x="1130" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-41" value="未提交上报状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yeugxd-kxGaIebQA7rHo-41" value="&lt;b style=&quot;font-family: Arial; font-size: 18.6667px;&quot;&gt;上报企业&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="370" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="yeugxd-kxGaIebQA7rHo-34" target="yeugxd-kxGaIebQA7rHo-41" parent="1">
