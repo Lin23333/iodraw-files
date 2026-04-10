@@ -248,24 +248,6 @@
         <mxCell id="yeugxd-kxGaIebQA7rHo-76" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;年度自查省局上报企业表单&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-77" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="920" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-76" target="yeugxd-kxGaIebQA7rHo-77">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="910" as="sourcePoint" />
-            <mxPoint x="900" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-79" value="生产企业类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="790" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-76" target="yeugxd-kxGaIebQA7rHo-79">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="851" y="850" as="sourcePoint" />
-            <mxPoint x="1030" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-81" value="表单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="700" width="90" height="60" as="geometry" />
         </mxCell>
@@ -285,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-85" value="任务ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="550" width="90" height="60" as="geometry" />
+          <mxGeometry x="480" y="590" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-76" target="yeugxd-kxGaIebQA7rHo-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
