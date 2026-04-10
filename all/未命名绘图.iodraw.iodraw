@@ -245,7 +245,7 @@
         <mxCell id="yeugxd-kxGaIebQA7rHo-66" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="yeugxd-kxGaIebQA7rHo-65">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-76" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;年度自查省局上报企业&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yeugxd-kxGaIebQA7rHo-76" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;年度自查省局上报企业表单&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-77" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -295,6 +295,15 @@
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-87" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="660" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-88" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="710" as="sourcePoint" />
+            <mxPoint x="690" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-89" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="yeugxd-kxGaIebQA7rHo-88">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
