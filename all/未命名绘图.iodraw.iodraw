@@ -5,60 +5,60 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yeugxd-kxGaIebQA7rHo-2" value="&lt;b&gt;&lt;span style=&quot;font-family: Arial; font-size: 14pt;&quot;&gt;年度自查省局上报&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-5" value="任务名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="90" height="60" as="geometry" />
+          <mxGeometry x="165" y="150" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-2" target="yeugxd-kxGaIebQA7rHo-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="300" as="sourcePoint" />
-            <mxPoint x="750" y="250" as="targetPoint" />
+            <mxPoint x="515" y="270" as="sourcePoint" />
+            <mxPoint x="565" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-8" value="自查年度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="130" width="90" height="60" as="geometry" />
+          <mxGeometry x="245" y="100" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yeugxd-kxGaIebQA7rHo-8" source="yeugxd-kxGaIebQA7rHo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="701" y="240" as="sourcePoint" />
-            <mxPoint x="880" y="190" as="targetPoint" />
+            <mxPoint x="516" y="210" as="sourcePoint" />
+            <mxPoint x="695" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-10" value="任务开展时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="80" width="90" height="60" as="geometry" />
+          <mxGeometry x="325" y="50" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yeugxd-kxGaIebQA7rHo-10" source="yeugxd-kxGaIebQA7rHo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="727" y="290" as="sourcePoint" />
-            <mxPoint x="1010" y="180" as="targetPoint" />
+            <mxPoint x="542" y="260" as="sourcePoint" />
+            <mxPoint x="825" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-12" value="任务完成期限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="80" width="90" height="60" as="geometry" />
+          <mxGeometry x="435" y="50" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yeugxd-kxGaIebQA7rHo-12" source="yeugxd-kxGaIebQA7rHo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="847" y="300" as="sourcePoint" />
-            <mxPoint x="1130" y="190" as="targetPoint" />
+            <mxPoint x="662" y="270" as="sourcePoint" />
+            <mxPoint x="945" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-14" value="生产自查模板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="130" width="90" height="60" as="geometry" />
+          <mxGeometry x="525" y="100" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yeugxd-kxGaIebQA7rHo-14" source="yeugxd-kxGaIebQA7rHo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="340" as="sourcePoint" />
-            <mxPoint x="1239" y="230" as="targetPoint" />
+            <mxPoint x="555" y="310" as="sourcePoint" />
+            <mxPoint x="1054" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-16" value="委托生产自查模板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="180" width="90" height="60" as="geometry" />
+          <mxGeometry x="595" y="150" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yeugxd-kxGaIebQA7rHo-16" source="yeugxd-kxGaIebQA7rHo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="400" as="sourcePoint" />
-            <mxPoint x="1289" y="290" as="targetPoint" />
+            <mxPoint x="605" y="370" as="sourcePoint" />
+            <mxPoint x="1104" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-18" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;年度自查省局上报企业&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -117,11 +117,6 @@
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-32" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="yeugxd-kxGaIebQA7rHo-31">
           <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yeugxd-kxGaIebQA7rHo-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yeugxd-kxGaIebQA7rHo-31">
-          <mxGeometry x="0.1641" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
