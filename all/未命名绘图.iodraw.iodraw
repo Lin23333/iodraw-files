@@ -180,7 +180,7 @@
           <mxGeometry x="960" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-52" value="自查整改开始日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="610" width="90" height="60" as="geometry" />
+          <mxGeometry x="1220" y="500" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-51" target="yeugxd-kxGaIebQA7rHo-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-54" value="自查不符合要求的项目整改情况" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="510" width="90" height="60" as="geometry" />
+          <mxGeometry x="1260" y="440" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-51" target="yeugxd-kxGaIebQA7rHo-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-56" value="自查不符合要求的项目条款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="430" width="90" height="60" as="geometry" />
+          <mxGeometry x="1240" y="370" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-51" target="yeugxd-kxGaIebQA7rHo-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -228,13 +228,22 @@
           <mxGeometry x="1050" y="600" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-63" value="自查整改结束日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="640" width="90" height="60" as="geometry" />
+          <mxGeometry x="1130" y="550" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeugxd-kxGaIebQA7rHo-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-51" target="yeugxd-kxGaIebQA7rHo-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="976.5" y="530" as="sourcePoint" />
             <mxPoint x="1243.5" y="648" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yeugxd-kxGaIebQA7rHo-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="610" as="sourcePoint" />
+            <mxPoint x="900" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yeugxd-kxGaIebQA7rHo-66" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="yeugxd-kxGaIebQA7rHo-65">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
